@@ -20,7 +20,7 @@ I work in Data Science, Machine Learning and Deep Learning. I want to understand
 <div class="sticky-top sticky-top-80">
 <h5>Resume</h5>
 
-<p><a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Download CV</a> </p>
+<p><a target="_blank" href="https://www.linkedin.com/in/suriya-narayanan-09338984/" class="btn btn-primary">LinkedIN</a> </p>
 
 </div>
 </div>
