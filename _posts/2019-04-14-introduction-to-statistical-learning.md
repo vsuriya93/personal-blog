@@ -76,7 +76,7 @@ One big use case for Unsupervised Learning is cost cutting. In the age of Big-Da
 
 In this post, we briefly discuss Statistical Learning, learning tasks, supervised and unsupervised learning and examples/use cases for each of them.
 
-This is meant to be a very general post, and will go more deeper into concepts, derivations and math of the things in the coming post. Stay tuned!
+This is meant to be a very general post, and will go more deeper into concepts, derivations and math of the things in the coming posts. Stay tuned!
 
 _Cheers,
 Suriya_
